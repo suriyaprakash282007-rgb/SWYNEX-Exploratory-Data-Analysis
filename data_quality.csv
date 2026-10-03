@@ -1,0 +1,9 @@
+,missing_count,missing_percent,unique_values
+customer_id,0,0.0,1000
+tenure_months,0,0.0,72
+contract_type,0,0.0,3
+internet_service,0,0.0,3
+support_calls_90d,15,1.5,9
+monthly_charges,25,2.5,921
+autopay,0,0.0,2
+churn,0,0.0,2
